@@ -1,2 +1,0 @@
-# SportsMojji
-Created with CodeSandbox
